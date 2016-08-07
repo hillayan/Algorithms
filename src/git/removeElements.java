@@ -1,6 +1,9 @@
 package git;
 public class removeElements {
 
+	
+	//去除链表中 某一个数值 的元素
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ListNode aa = new ListNode(1);

@@ -6,6 +6,8 @@ public class Evaluate {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		// dijstra 的双栈算数表达式求知算法
+		
 		char[] ar1 = ("(1+((2+3)*(4*5)))").toCharArray();
 
 		String[] args1 = new String[ar1.length];
